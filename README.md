@@ -7,6 +7,8 @@ This is the place you register and upload your IP address
 
 | IP address | Hostname | Owner |
 |------------|----------|-------|
+| 10.117.62.58 | VMware EXSI 1 | Zenan|
+| 10.117.62.59 | VM (VMware EXSI 1) | Jiaming|
 | 10.117.62.60 | Ant | Chengyuan |
 | 10.117.62.61 | Rat | Chengyuan |
 | 10.117.62.62 | simulator | Shuo |
@@ -17,4 +19,4 @@ This is the place you register and upload your IP address
 | 10.117.62.68 | * | * |
 | 10.117.62.70 | Gitlab | Shuo |
 | 10.117.62.71 | Bird | Chengyuan |
-| 10.117.62.70 | Fish | Chengyuan |
+| 10.117.62.72 | Fish | Chengyuan |
