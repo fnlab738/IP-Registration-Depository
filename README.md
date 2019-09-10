@@ -7,6 +7,7 @@ This is the place you register and upload your IP address
 
 | IP address | Hostname | Owner |
 |------------|----------|-------|
+| 10.117.62.52 | Titan | Zenan |
 | 10.117.62.60 | Ant | Chengyuan |
 | 10.117.62.61 | Rat | Chengyuan |
 | 10.117.62.62 | simulator | Shuo |
