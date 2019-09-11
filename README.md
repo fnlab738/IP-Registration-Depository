@@ -1,6 +1,9 @@
 # IP-Registration-Depository
 This is the place you register and upload your IP address
 
+> This is the all members' namelist [`order`](https://github.com/fnlab738/Weekly-Discussions-Archive/blob/master/namelist.md)
+
+
 ----
 
 | IP address | Hostname | Owner |
@@ -17,6 +20,7 @@ This is the place you register and upload your IP address
 | 10.117.62.63 | * | * |
 | 10.117.62.64 | * | * |
 | 10.117.62.65 | * | * |
+| 10.117.62.66 | VMware EXSI 2 | Haoran |
 | 10.117.62.67 | * | * |
 | 10.117.62.68 | * | * |
 | 10.117.62.70 | Gitlab | Shuo |
