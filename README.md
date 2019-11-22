@@ -21,7 +21,7 @@ This is the place you register and upload your IP address
 | 10.117.62.64 | * | * |
 | 10.117.62.65 | * | * |
 | 10.117.62.66 | **VMware EXSI 2** | Haoran |
-| 10.117.62.67 | **VMware EXSI 2** | Haoran |
+| 10.117.62.67 | VM(VMware EXSI 2) | Haoran |
 | 10.117.62.68 | * | * |
 | 10.117.62.70 | **Gitlab** | Shuo |
 | 10.117.62.71 | **Bird** | Chengyuan |
