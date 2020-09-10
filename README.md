@@ -8,7 +8,7 @@ This is the place you register and upload your IP address
 
 | IP address | Hostname | Owner |
 |------------|----------|-------|
-| 10.117.62.51 | **Titan_eno1** | Zenan |
+| 10.117.62.51 | **Titan_eno1**(dicard) | Zenan |
 | 10.117.62.52 | **Titan_eno2** | Zenan |
 | 10.117.62.53 | VM (VMware EXSI 1) | Zenan |
 | 10.117.62.54 | VM (VMware EXSI 1) | Zenan |
