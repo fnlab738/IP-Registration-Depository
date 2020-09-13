@@ -24,9 +24,12 @@ This is the place you register and upload your IP address
 | 10.117.62.67 | VM(VMware EXSI 2) | Haoran |
 | 10.117.62.68 | * | * |
 | 10.117.62.70 | **Gitlab** | Shuo |
-| 10.117.62.71 | **Bird**(VMWare EXSI 3) | Chengyuan | 
+| 10.117.62.71 | **VMware EXSI 3** | Haoran |
 | 10.117.62.72 | **Fish** | Chengyuan |
-| 10.117.62.73 | VM HOST(VMware EXSI 1)| zirui|
+| 10.117.62.73 | VM (VMware EXSI 1)| Xuyang|
 | 10.117.62.74 | VM (VMware EXSI 1)| Xuyang|
-| 10.117.62.75 | **Puppy (with Titan X)** | Chengyuan|
-| 10.117.62.76 | **Kitty** | Chengyuan|
+| 10.117.62.75 | **Lion (Titan RTX)** | Chengyuan|
+| 10.117.62.76 | **Puppy** | Chengyuan|
+| 10.117.62.xx | **Deer (Titan RTX)** | Chengyuan|
+
+| 10.112.226.250 | **Tiger (PC, Titan X)** | Chengyuan|
