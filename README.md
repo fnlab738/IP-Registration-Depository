@@ -31,5 +31,5 @@ This is the place you register and upload your IP address
 | 10.117.62.75 | **Lion (Titan RTX)** | Chengyuan|
 | 10.117.62.76 | **Puppy** (***Titan X without charge***)| Chengyuan|
 | 10.117.62.78 | **Deer (Titan RTX)** | Chengyuan|
-| 10.117.62.70 | VM(VMware EXSI 3) | Bili |
+| 10.117.62.79 | VM(VMware EXSI 3) | Bili |
 | 10.112.226.250 | **Tiger (PC, Titan X)** | Chengyuan|
