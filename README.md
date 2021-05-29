@@ -16,7 +16,7 @@ This is the place you register and upload your IP address
 | 10.103.239.100 | **Lion (Titan RTX)** | Chengyuan| 3-638 |
 | 10.103.239.101 | **Puppy** (***Titan X without charge***)| Chengyuan| 3-638 |
 | 10.117.62.78 | **Deer (Titan RTX)** | Dehui| 3-709 |
-| 10.112.226.250 | **Tiger (PC, Titan X)** | Chengyuan| 3-738 |
+| 10.112.13.80 | **Tiger (PC, Titan X)** | Chengyuan| 3-738 |
 | 10.103.239.102 | **Titan_eno2** | Zenan | 3-638 |
 | 10.117.62.62 | **simulator** | Shuo | 3-709 |
 | 10.117.62.70 | **Gitlab** | Shuo | ?? |
