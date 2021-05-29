@@ -13,7 +13,7 @@ This is the place you register and upload your IP address
 | 10.103.239.104 | **VMware EXSI 3** | Haoran | 3-638 |
 | 10.117.62.60 | **Ant**| Chengyuan | ?? |
 | 10.103.239.106 | **Rat**| Chengyuan | 3-638 |
-| 10.103.239.100 | **Lion (Titan RTX)** | Chengyuan| 3-638 |
+| 10.103.239.100 | **Lion (Titan RTX)** | Dehui| 3-638 |
 | 10.103.239.101 | **Puppy** (***Titan X without charge***)| Chengyuan| 3-638 |
 | 10.117.62.78 | **Deer (Titan RTX)** | Dehui| 3-709 |
 | 10.112.13.80 | **Tiger (PC, Titan X)** | Chengyuan| 3-738 |
